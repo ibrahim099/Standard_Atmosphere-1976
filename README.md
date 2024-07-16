@@ -39,3 +39,6 @@ Applications
         Used in ballistic engineering and various engineering applications to simulate atmospheric conditions.
 
 While the 1976 U.S. Standard Atmosphere model does not perfectly reflect real atmospheric conditions, it provides a reliable and widely accepted reference for engineering and scientific calculations. This model is a fundamental tool used in a wide range of applications, from the design of air vehicles to climate research.
+
+
+![standard_atmosphere](https://github.com/user-attachments/assets/19eeaba0-5caf-428d-93ef-c309c4e20852)
